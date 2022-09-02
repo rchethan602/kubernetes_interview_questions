@@ -29,7 +29,7 @@
 ######     i. day to day: configmps, secrets, PVs, PVCs
 ######     j. troubleshot operational issues
 ######     k. stateful sets 
-######     l. created CSRs and signed certificates
+#####     l. created CSRs and signed certificates
 
 
 ## ........
